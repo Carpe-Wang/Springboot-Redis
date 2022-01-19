@@ -1,0 +1,5 @@
+spring:
+  redis:
+    database: 0 #数据库不再进行细分，然后用0统一数据库
+    host: localhost
+    port: 6379
