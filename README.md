@@ -1,4 +1,4 @@
-# Springboot-Redis
+# Springboot-Redis:smile:
 
 
 需要注意的就是在我们定义entity实体类的时候，因为我们是需要将java对象存储在redis中，```redis又是在内存中进行存储```
